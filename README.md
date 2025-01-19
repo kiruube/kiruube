@@ -41,7 +41,6 @@ I bridge the gap between robust backend solutions and seamless user interfaces. 
 ## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiruube&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiruube&theme=radical&hide_border=true" height="180px" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruube&layout=compact&theme=radical&hide_border=true" height="180px" />
@@ -61,6 +60,12 @@ I bridge the gap between robust backend solutions and seamless user interfaces. 
   <a href="https://twitter.com/benjamin_kiruube" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://www.instagram.com/benjamin_kiruube/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/benjamin.kiruube/" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 ---
@@ -72,4 +77,3 @@ I bridge the gap between robust backend solutions and seamless user interfaces. 
 - **🌍 Hobbies:** Driving 🚗, basketball 🏀, and tech research 💻.
 
 ---
-
