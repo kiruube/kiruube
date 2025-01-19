@@ -38,26 +38,6 @@ I bridge the gap between robust backend solutions and seamless user interfaces. 
 
 ---
 
-## 🖥️ My Tech Stack
-
-### **Backend Development**
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Frameworks:** Node.js, Express.js, NestJS
-- **Databases:** PostgreSQL, MongoDB  
-- **DevOps:** Docker, GitHub Actions  
-
-### **Frontend Development**
-- **Frameworks:** React.js, Next.js  
-- **Styling:** TailwindCSS, Material-UI, Bootstrap  
-- **Tools:** Figma, Storybook  
-
-### **Quality Assurance**
-- **Tools:** Cypress, Selenium, Playwright, Postman  
-- **API Testing:** ReadyAPI  
-- **Unit & E2E Testing:** Jest, Testing Library  
-
----
-
 ## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiruube&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
